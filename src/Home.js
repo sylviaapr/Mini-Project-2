@@ -138,6 +138,7 @@ function Home() {
                           {watchList &&
                             watchList.results.map((item) => (
                               <li key={item.id}>
+                                {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                                 <a
                                   className="dropdown-item text-white"
                                   href="#"

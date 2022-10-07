@@ -49,6 +49,7 @@ function NavBar() {
             </a>
           </li>
           <li className="nav-item">
+            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a className="nav-link" href="#" onClick={handleLogout}>
               Logout
             </a>

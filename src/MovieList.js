@@ -20,7 +20,7 @@ const MovieList = () => {
       .catch((error) => {
         console.error(error);
       });
-  }, []);
+  }, [listID]);
 
   const handleDeleteMovie = (id) => {
     axios({

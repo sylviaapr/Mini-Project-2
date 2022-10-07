@@ -157,6 +157,7 @@ const WatchList = () => {
                       >
                         Details & More
                       </a>
+                      {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                       <a
                         href="#"
                         className="btn button-style text-white mx-2"
