@@ -19,3 +19,7 @@ Movieflakes is a movie based website.
 - **Bootstrap**
 
 - **React**
+
+## Netlify
+
+- **https://nimble-fairy-c0ccf5.netlify.app/**
